@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movieList>
+    <movie>
+        <movieTitle>Interstellar Odyssey</movieTitle>
+        <profit>750000000.50</profit> <movieGenre>Science Fiction</movieGenre>
+        <releaseDate>2014-11-07</releaseDate> <platform>Cinema</platform>
+    </movie>
+
+    <movie>
+        <movieTitle>The Laugh Track</movieTitle>
+        <profit>12500000.00</profit>
+        <movieGenre>Comedy</movieGenre>
+        <releaseDate>2023-08-15</releaseDate>
+        <platform>Hulu</platform>
+    </movie>
+
+    <movie>
+        <movieTitle>Silent Echoes</movieTitle>
+        <profit>45000000.75</profit>
+        <movieGenre>Drama</movieGenre>
+        <releaseDate>2021-04-22</releaseDate>
+        <platform>Netflix</platform>
+    </movie>
+
+    <movie>
+        <movieTitle>A Small World</movieTitle>
+        <profit>550000000.00</profit>
+        <movieGenre>Animation</movieGenre>
+        <releaseDate>2022-12-10</releaseDate>
+        <platform>Disney+</platform>
+    </movie>
+</movieList>
