@@ -1,0 +1,31 @@
+<BankAccount>
+	<Account>
+		<holderName>John Doe</holderName>
+		<iban>123456789</iban>
+		<amount>1250.75</amount>
+		<openingDate>2023-01-15</openingDate>
+	</Account>
+
+	<Account>
+		<holderName>Harry Potter</holderName>
+		<iban>122060789</iban>
+		<amount>3980.23</amount>
+		<openingDate>2015-05-23</openingDate>
+	</Account>
+
+	<Account>
+		<holderName>Named Collective</holderName>
+		<iban>362389104</iban>
+		<amount>125697.33</amount>
+		<openingDate>2020-03-15</openingDate>
+	</Account>
+
+	<Account>
+		<holderName>Hermione Granger</holderName>
+		<iban>145389146</iban>
+		<amount>1697.33</amount>
+		<openingDate>2023-07-15</openingDate>
+	</Account>
+</BankAccount>
+
+	
